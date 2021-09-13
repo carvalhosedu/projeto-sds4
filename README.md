@@ -1,4 +1,4 @@
-# projeto-sds4
+# Projeto da Semana Spring React 4.0 DevSuperior com Profº Nelio Alves!
 Projeto criado durante a Semana Spring React
 Neste projeto foi realizado o desenvolvimento dos seguintes items:
 
